@@ -1,0 +1,1 @@
+https://www.google.com/search?q=split+text+file+into+multiple+files+based+on+string+python&oq=split+text+file+into+multiple+files+based+on+string+python&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDINCAEQABiGAxiABBiKBTINCAIQABiGAxiABBiKBdIBCTE3NzM1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
